@@ -1,4 +1,4 @@
-@article{REPO-369,
+@article{REPO-368,
     author = "Li, Jian-Yu and Zhan, Zhi-Hui and Wang, Hua and Zhang, Jun",
     journal = "IEEE Transactions on Cybernetics",
     number = "8",
