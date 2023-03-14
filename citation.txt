@@ -1,0 +1,9 @@
+@article{REPO-369,
+    author = "Li, Jian-Yu and Zhan, Zhi-Hui and Wang, Hua and Zhang, Jun",
+    journal = "IEEE Transactions on Cybernetics",
+    number = "8",
+    pages = "3925-3937",
+    title = "{Data-Driven Evolutionary Algorithm with Perturbation-Based Ensemble Surrogates}",
+    volume = "51",
+    year = "2021"
+}
